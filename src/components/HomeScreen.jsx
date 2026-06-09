@@ -13,7 +13,7 @@ const LEVEL_INFO = [
   {
     level: 'N4',
     kanji: '~200 kanji',
-    passages: 0,
+    passages: 50,
     color: '#2b7ee0',
     bg: '#eef4ff',
     border: '#2b7ee040',
